@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # Server-01 login commands
+# up
 
 # Setting up the SSH-agent
 eval $("ssh-agent")
